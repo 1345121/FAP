@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/creatorbe/project/contrib/FAP/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_sliceb.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="30e8948e9d0017c20eadead55740d68635978eab">
+        <dex dex="/Users/creatorbe/project/contrib/FAP/app/build/intermediates/transforms/dex/debug/folders/1000/5/main_sliceb_0c309e6f6b1dad3879711db99110a414a4c35ca2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/creatorbe/project/contrib/FAP/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/1a/dependencies.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ba5c61ebd7145a517cc68625722d7f1c3ee0babb">
+        <dex dex="/Users/creatorbe/project/contrib/FAP/app/build/intermediates/transforms/dex/debug/folders/1000/1a/dependencies_fdb689ff7bd639bb30d82f5aa02dc09eea8c7818/classes.dex" />
+    </item>
+
+</items>
